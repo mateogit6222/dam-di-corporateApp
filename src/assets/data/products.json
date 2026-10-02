@@ -4,13 +4,23 @@
     "nombre": "Portátil Dell",
     "unidades": 12,
     "precio": 1200,
-    "foto": "assets/images/dell.jpg"
+    "foto": "assets/images/dell.jpg",
+    "vendedor": "TechStore SL"
   },
   {
     "id": 2,
     "nombre": "Monitor LG",
     "unidades": 8,
     "precio": 299,
-    "foto": "assets/images/lg.jpg"
+    "foto": "assets/images/lg.jpg",
+    "vendedor": "Pantallas Pro"
+  },
+  {
+    "id": 3,
+    "nombre": "Teclado Mecánico",
+    "unidades": 15,
+    "precio": 85,
+    "foto": "assets/images/teclado.jpg",
+    "vendedor": "Periféricos Paco"
   }
 ]
